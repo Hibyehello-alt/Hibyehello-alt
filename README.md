@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋
+I'm **Hibyehello**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibyehello-alt&show_icons=true&theme=radical&hide=issues)
 
 <!--
 **Hibyehello-alt/Hibyehello-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
