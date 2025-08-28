@@ -1,5 +1,18 @@
 # Hibyehello's Alternate Playground
 
+<!-- https://github.com/inttter/md-badges -->
+
+<li style="display:inline;">
+<a href="https://www.c-language.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="height:30; width:27;"></img></a>
+<a href="https://isocpp.org/"> <img src="https://isocpp.org/assets/images/cpp_logo.png" style="height:30; width:27;"></img></a>
+<a href="https://cs.brown.edu/courses/csci1260/spring-2021/lectures/x86-64-assembly-language-reference.html"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" style="height:32; width:32;"></img></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="height:30; width:30;"></img></a>
+<a href="https://www.python.org/"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" style="height:30; width:25;"></img></a>
+<a href="https://www.swift.org/"> <img src="https://developer.apple.com/swift/resources/images/swift_logo_color.svg" style="height:30; width:30;"></img></a>
+<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210"> <img src="https://icon.icepanel.io/Technology/svg/Objective-C.svg" style="height:30; width:30; background-color: white;"></img></a>
+</li>
+
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibyehello-alt&show_icons=true&theme=radical&hide=issues)
 
 # Interests
@@ -7,13 +20,12 @@
 - Emulation
 - Frontends and Backends
 - Communication/Protocols
+- MacOS Development
 
-  ## Favorite Languages
-  - C++
-  - X86_64/Gekko Powerpc Assembly
-  - Javascript
-  - Python
-  - Swift/Objective-C
+## Current Project
+[![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=hibyehello-alt&repo=n4studios)](https://github.com/hibyehello-alt/n4studios)
+
+* Currently helping with the Computer Simulator portion
 <!--
 **Hibyehello-alt/Hibyehello-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
