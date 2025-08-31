@@ -1,6 +1,9 @@
 # Hibyehello's Alternate Playground
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-white?style=flat&logo=raspberrypi&color=%23cd2355)
+
+
 <!-- https://github.com/inttter/md-badges -->
 
 <a href="https://www.c-language.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="30" width="27"></img></a>
