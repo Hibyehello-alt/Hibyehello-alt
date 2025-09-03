@@ -25,9 +25,7 @@
 - MacOS Development
 
 ## Current Project
-[![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=hibyehello-alt&repo=n4studios)](https://github.com/hibyehello-alt/n4studios)
-
-* Currently helping with the Computer Simulator portion
+[![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=hibyehello-alt&repo=Computer-Simulator)](https://github.com/hibyehello-alt/Computer-Simulator)
 
 ### Contact Me
 
